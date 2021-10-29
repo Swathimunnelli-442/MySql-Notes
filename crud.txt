@@ -1,0 +1,12 @@
+create 
+- INSERT
+
+read
+-SELECT
+
+update
+- UPDATE
+
+delete
+-DELETE
+-TRUNCATE
